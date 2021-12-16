@@ -1,0 +1,114 @@
+
+@charset "UTF-8";
+
+.header{
+	display:flex ;
+	margin-bottom:0px;
+}
+.k{
+	color:white;
+}
+.menu{
+
+	margin-left:370px;
+	padding:0;
+	text-align: center;
+	display:flex ;
+	list-style:none;
+}
+.loginLi{
+	text-align: center;
+}
+.login{
+
+	margin-left: auto;
+	padding:0;
+	list-style:none;
+	text-align: right;
+	display:flex ;
+}
+a {
+	color:black;
+}
+.inn{
+	text-align: center;
+}
+#entry{
+	font-weight: bold;
+	background-color: skyblue;
+	padding : 5px 10px;
+	border-radius :50px;
+	color:white;
+}
+.serch1{
+	margin-top:20px;
+	display:flex;
+	text-align:center;
+	margin-left:420px;
+}
+.price{
+	margin-left:30px;
+	width:200px;
+	height:150px;
+	border:solid skyblue
+    }
+.category{
+    margin-left:30px;
+	width:200px;
+	height:150px;
+	border:solid skyblue
+}
+.ptext{
+	text-align:center;
+	margin-top:0px;
+	background-color: skyblue;
+	padding : 5px 10px;
+	color:white;
+}
+.key{
+	text-align:center;
+	margin-left:550px;
+	margin-top:20px;
+	width:250px;
+	height:150px;
+	border:solid skyblue
+}
+.btn{
+	border:solid white;
+	font-weight: bold;
+	background-color:orange;
+	color:white;
+}
+body{
+	display: flex;
+	flex-flow:column;
+	min-height: 100vh;
+}
+.content{
+	flex:1;
+}
+
+#footer {
+	margin-top:60px;
+  width:100%;
+  background-color:skyblue;
+
+}
+#ftext{
+	margin-top:5px;
+	font-size:35px;
+	text-align:center;
+	color:white;
+	font-weight: bold;
+}
+.ftext2{
+	text-align:center;
+	color:white;
+	font-weight: bold;
+}
+.ftext3{
+	margin-top:40px;
+	text-align:center;
+	color:white;
+	font-weight: bold;
+}
